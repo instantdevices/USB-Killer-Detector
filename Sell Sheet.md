@@ -1,4 +1,10 @@
 <p align="center">
+    <strong>USB KILLER DETECTOR</strong>
+</p>
+<p align="center">
+    <strong></strong>
+</p>
+<p align="center">
     <strong>SELL SHEET</strong>
 </p>
 <p>

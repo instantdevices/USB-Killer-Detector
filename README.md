@@ -193,4 +193,4 @@
 </ol>
 </li>
 </ul>
-This article is initially published at Elektor Magazine (https://www.elektormagazine.com/).
+This article is initially published by Elektor Magazine (https://www.elektormagazine.com/).

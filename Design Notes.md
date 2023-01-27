@@ -1,8 +1,11 @@
 <p align="center">
-    <strong>DESIGN NOTES</strong>
+    <strong>USB KILLER DETECTOR</strong>
 </p>
 <p align="center">
     <strong></strong>
+</p>
+<p align="center">
+    <strong>DESIGN NOTES</strong>
 </p>
 <p>
     1. PCB is two-layer SMD.

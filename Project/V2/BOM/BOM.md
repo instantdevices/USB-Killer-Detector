@@ -1,3 +1,12 @@
+<p align="center">
+    <strong>USB KILLER DETECTOR V2</strong>
+</p>
+<p align="center">
+    <strong></strong>
+</p>
+<p align="center">
+    <strong>BOM</strong>
+</p>
 <table border="0" cellspacing="0" cellpadding="0" width="1333">
     <tbody>
         <tr>

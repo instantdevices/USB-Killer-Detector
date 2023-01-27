@@ -1,8 +1,11 @@
 <p align="center">
-    <strong>Debugging</strong>
+    <strong>USB KILLER DETECTOR</strong>
 </p>
 <p align="center">
     <strong></strong>
+</p>
+<p align="center">
+    <strong>DEBUGGING</strong>
 </p>
 <p>
     Components D1 and D5 should not be hot. However, they can be hot when it

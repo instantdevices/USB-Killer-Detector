@@ -1,5 +1,5 @@
 <p align="center">
-    <strong>Design Notes</strong>
+    <strong>DESIGN NOTES</strong>
 </p>
 <p align="center">
     <strong></strong>

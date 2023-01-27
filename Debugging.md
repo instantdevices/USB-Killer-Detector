@@ -27,8 +27,9 @@
 <p>
     If this is the case, please remove components and continue lecture.
 </p>
-<div>
-</div>
+<p>
+    ------------------------------------------
+</p>
 <p>
     Next step is checking voltage of the main surge detector IC (NX20P0408).
 </p>
@@ -54,4 +55,40 @@
     your voltmeter. If a power surge is detected, then voltmeter should show a
     value of around +5V. If this happens, user can conclude that the main
     detector IC is working.
+</p>
+<p>
+    ------------------------------------------
+</p>
+<p>
+    If there are not around +5V in your voltmeter while checking TP4 and +5V
+    line, then main surge detector IC (NX20P0408) is not working as it should.
+</p>
+<p>
+    The above can be due to several reasons:
+</p>
+<p>
+    - IC (NX20P0408) was not soldered correctly.
+</p>
+<p>
+    - Components in wrong positions.
+</p>
+<p>
+    - Components soldered incorrectly.
+</p>
+<p>
+    - Not all components are on board.
+</p>
+<p>
+    At this point, it is recommended try to fix any of the above issues or
+    start from zero.
+</p>
+<p>
+    ------------------------------------------
+</p>
+<p>
+    However, if there were +5V in the voltmeter while checking TP4 and +5V,
+    then also check the resistance of F1. It should be very low.
+</p>
+<p>
+    F1 acts as a conductor for normal operation.
 </p>

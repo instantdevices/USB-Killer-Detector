@@ -1,5 +1,5 @@
 <p align="center">
-    <strong>Sell Sheet</strong>
+    <strong>SELL SHEET</strong>
 </p>
 <p>
     UBS Kill is a pen-testing device that looks like a regular USB flash drive.

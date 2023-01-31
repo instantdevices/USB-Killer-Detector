@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
     <strong>Our Efforts to Find the Ideal Solution to A Common Problem</strong>
 </p>

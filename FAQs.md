@@ -164,7 +164,7 @@
     Regular micro-USB phone chargers with an output of 5V/1A or also 5V/2A.
 </p>
 <p>
-    <strong>13) What screws does cases use?</strong>
+    <strong>13) What screws do cases use?</strong>
 </p>
 <p>
     Self-tapping M2x6 screws.

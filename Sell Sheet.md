@@ -10,8 +10,8 @@
 <p>
     UBS Kill is a pen-testing device that looks like a regular USB flash drive.
     When these USB flash drives are connected into a USB port of your personal computer, then the 5V found in the USB port is converted into
-    about 220 Volts. Needless to say, that, in matters of seconds, the computer
-    can be physically damaged, resulting in the spending of money and resources
+    about 220 Volts. Needless to say that the computer
+    can be physically damaged in seconds, resulting in the spending of money and resources
     to replace broken parts.
 </p>
 <p>

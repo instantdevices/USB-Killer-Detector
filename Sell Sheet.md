@@ -24,13 +24,13 @@
     - Fits in your hand and pocket.
 </p>
 <p>
-    - Low manufacturing costs.
+    - Relatively low manufacturing costs.
 </p>
 <p>
     - Universally compatible with almost any micro-USB charger.
 </p>
 <p>
-    - Use it prior to connect to your valuable hardware an unknown flash drive.
+    - Use it prior to connect an unknown flash drive to your valuable hardware.
 </p>
 <p>
     - Confidently proceed as usual upon a negative result.

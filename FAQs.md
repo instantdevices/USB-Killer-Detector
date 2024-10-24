@@ -1,4 +1,4 @@
-<p align="center"><strong>Frequently Asked Questions</strong></p>
+<p align="center"><strong>FREQUENTLY ASKED QUESTIONS</strong></p>
 
 <hr>
 <p><strong>1) How many versions does this project has?</strong></p>

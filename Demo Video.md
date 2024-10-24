@@ -1,10 +1,4 @@
 <p align="center">
-    <strong>USB KILLER DETECTOR</strong>
+    <strong>Demonstration Video</strong>
 </p>
-<p align="center">
-    <strong></strong>
-</p>
-<p align="center">
-    <strong>DEMONSTRATION VIDEO</strong>
-</p>
-LINK: https://youtu.be/UjSqL8STWCs
+<a>YouTube Video: </a><a href="https://youtu.be/UjSqL8STWCs">https://youtu.be/UjSqL8STWCs</a>

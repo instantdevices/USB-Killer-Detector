@@ -1,5 +1,5 @@
 <p align="center">
-    <strong>CONTACT INFORMATION</strong>
+<strong>CONTACT INFORMATION</strong>
 </p>
 <p><em>
 Instant Devices<br>

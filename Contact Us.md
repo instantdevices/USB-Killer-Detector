@@ -1,10 +1,11 @@
 <p align="center">
-    <strong>USB KILLER DETECTOR</strong>
-</p>
-<p align="center">
-    <strong></strong>
-</p>
-<p align="center">
     <strong>CONTACT INFORMATION</strong>
 </p>
-<p>Project: USB Killer Detector<br /> Name: Carlos Guzman<br /><br /> Email: instant.devices@yahoo.com<br /></p>
+<p><em>
+Carlos Guzman<br>
+USB Killer Detector<br>
+11425 SW 44th St<br>
+Miami, FL 33165<br>
+United States<br>
+Email: instant.devices@yahoo.com
+</em></p>

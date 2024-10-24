@@ -2,11 +2,9 @@
     <strong>USB KILLER DETECTOR</strong>
 </p>
 <p align="center">
-    <strong></strong>
+    <strong>QUICK DEBUGGING</strong>
 </p>
-<p align="center">
-    <strong>DEBUGGING</strong>
-</p>
+<hr>
 <p>
     Components D1 and D5 should not be hot. However, they can be hot when it
     suppresses a power surge but, without power surge, they should not get hot.
@@ -30,9 +28,9 @@
 <p>
     If this is the case, please remove components and continue lecture.
 </p>
-<p>
-    ------------------------------------------
-</p>
+
+<hr>
+
 <p>
     Next step is checking voltage of the main surge detector IC (NX20P0408).
 </p>
@@ -59,9 +57,9 @@
     value of around +5V. If this happens, user can conclude that the main
     detector IC is working.
 </p>
-<p>
-    ------------------------------------------
-</p>
+
+<hr>
+
 <p>
     If there are not around +5V in your voltmeter while checking TP4 and +5V
     line, then main surge detector IC (NX20P0408) is not working as it should.
@@ -85,9 +83,9 @@
     At this point, it is recommended try to fix any of the above issues or
     start from zero.
 </p>
-<p>
-    ------------------------------------------
-</p>
+
+<hr>
+
 <p>
     However, if there were +5V in the voltmeter while checking TP4 and +5V,
     then also check the resistance of F1. It should be very low.

@@ -179,18 +179,3 @@
     Finally, to find a third example, have you searched for these USB Killers
     in big online retailers?
 </p>
-<p>There are two versions available:</p>
-<ul>
-<li>Battery-powered version (v1).
-<ol>
-<li>This version uses a battery to have energy. People can carry this device anywhere they like and have the intended functionality.</li>
-</ol>
-</li>
-<li>Non-battery powered version (v2).
-<ol>
-<li>We developed this version because it is difficult to ship ion-based batteries and devices that contain them.</li>
-<li>Requirement: A micro-USB cable that provides 5 Volts.</li>
-</ol>
-</li>
-</ul>
-This article is initially published by Elektor Magazine (https://www.elektormagazine.com/).

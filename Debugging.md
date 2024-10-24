@@ -1,7 +1,4 @@
 <p align="center">
-    <strong>USB KILLER DETECTOR</strong>
-</p>
-<p align="center">
     <strong>QUICK DEBUGGING</strong>
 </p>
 <hr>

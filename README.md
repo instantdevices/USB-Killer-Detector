@@ -38,3 +38,14 @@ Version #1: (Battery-Powered) This version uses a battery to source for energy. 
 Version #2: (No Battery-Powered) It is a commercial challenge to ship devices with an ion-based battery due to current global regulations. This version does NOT use any battery at all, instead, energy is sourced from a standard micro-USB charging cable.
 </li>
 </ul>
+<p>
+<strong>License Store</strong>
+</p>
+<ul>
+<li>
+PCB Files (Personal & Commercial Licenses): https://payhip.com/b/A4bQ8
+</li>
+<li>
+Cases (Commercial License): https://payhip.com/b/Yq0dC
+</li>
+</ul>
